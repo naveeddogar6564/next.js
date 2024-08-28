@@ -4,7 +4,7 @@ import React from "react"
 const page = () => {
   return (
   <div><figure className="bg-slate-100 rounded-xl p-8 dark:bg-slate-800">
-  <img className="w-24 h-24 rounded-full mx-auto" src="/naveed.jpg" alt="" width="384" height="512"/>
+  <img className="w-24 h-24 rounded-full mx-auto" src="/Flag.jpeg" alt="" width="384" height="300"/>
   <div className="pt-6 text-center space-y-4">
     <blockquote>
       <p className="text-lg font-medium">
